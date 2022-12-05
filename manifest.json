@@ -1,6 +1,6 @@
 {
-    "name": "mountalpha",
-    "short_name": "mountalpha",
+    "name": "landing_page_web",
+    "short_name": "landing_page_web",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
